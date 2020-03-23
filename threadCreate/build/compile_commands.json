@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/cppproject/cppk/build",
+  "command": "C:\\mingw17\\MinGW\\bin\\g++.exe    -g   -o CMakeFiles\\cppkdemo.dir\\main.cpp.obj -c C:\\cppproject\\cppk\\main.cpp",
+  "file": "C:/cppproject/cppk/main.cpp"
+}
+]
